@@ -1,0 +1,14 @@
+config = configs/nerf/hotdog.py
+dump_images = True
+eval_lpips_alex = False
+eval_lpips_vgg = False
+eval_ssim = True
+ft_path = 
+i_print = 500
+i_weights = 100000
+no_reload = False
+no_reload_optimizer = False
+render_only = False
+render_test = True
+render_train = False
+seed = 777
